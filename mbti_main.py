@@ -1,4 +1,4 @@
-# sudo python3 mbti_main.py 로 실행
+# python3 mbti_main.py 로 실행
 
 MBTI = [None] * 4
 pntmbti = [None] * 4
